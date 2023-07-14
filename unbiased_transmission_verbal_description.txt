@@ -1,0 +1,8 @@
+In (cultural) evolution it’s easy to assume that a trait spreads because it is adaptive.
+After all, if it wasn’t, why would it catch on? Why would people preferentially copy it?
+Better tools replace worse tools. Easier languages replace harder ones. Right? 
+
+But why did shoulder pads die and off-the-shoulder tops stay? Is one better than the other?
+A good baseline model for comparison is a model of unbiased transmission: random
+copying. If we understand the signatures of this kind of behaviour, we can better spot
+when there IS a bias in transmission favouring a specific trait.

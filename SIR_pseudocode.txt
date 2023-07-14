@@ -1,0 +1,33 @@
+########## DEFINE AGENTS AND BEHAVIOUR #############################
+
+# agents live on a grid of a certain size
+# and can take one of three states:
+# Susceptible, Infected or Recovered
+# maybe we just call them states 0, 1, 2
+
+# everbody starts with state 0
+# but one randomly picked agent gets infected 
+
+# when an agent is infectious, their neighbors will also be infected 
+# with a certain probability, and the originally infected recovers
+        
+
+########## FOR LOOP, SAVING KEY VARIABLES ###########################
+
+# as long as there is an infected agent in the population
+# the trait/disease spreads
+
+# you can count the number of infections per time step 
+# or just save the grid 
+
+########## PLOT OUR KEY VARIABLES ###################################
+
+# get an idea what patterns this process produces
+
+
+########## PLAY WITH PARAMETERS #####################################
+
+# what are the parameters in this model? 
+# how would you vary them?
+# which parameters would you add? 
+

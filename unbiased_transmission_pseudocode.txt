@@ -1,0 +1,29 @@
+########## DEFINE AGENTS AND BEHAVIOUR #############################
+
+# there is a populuation of a certain size
+# each agent has one of two traits, let's say A and B
+# A and B are distributed as you want, maybe 70:30 or 50:50
+
+# a next generation copies their traits from the previous generation 
+# copying one at random 
+
+        
+########## FOR LOOP, SAVING KEY VARIABLES ###########################
+
+# for as many generations as there are, next generations randomly
+# copy traits from the previous generation 
+
+# you could save the percentage of trait A across generations
+
+
+########## PLOT OUR KEY VARIABLES ###################################
+
+# get an idea what patterns this process produces
+
+
+########## PLAY WITH PARAMETERS #####################################
+
+# what are the parameters in this model? 
+# how could we vary them? 
+# which parameters would you add?
+# is this a realistic model? 

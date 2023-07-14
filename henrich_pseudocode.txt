@@ -1,0 +1,29 @@
+########## DEFINE AGENTS AND BEHAVIOUR #############################
+
+# you have a population of a certain size, who have varying skills 
+# skills could be represented by random numbers in a range
+
+# the next generation of social learners could preferentially copy
+# the person with the highest skill level. however, they generally
+# fall short of this skill level theselves. 
+# maybe model this with a distribution... 
+
+        
+########## FOR LOOP, SAVING KEY VARIABLES ###########################
+
+# this happens for many Generations
+# we could track average skill or maximum skill of the generation 
+# in a list
+ 
+
+########## PLOT OUR KEY VARIABLES ###################################
+
+# get an idea what patterns this process produces
+
+
+########## PLAY WITH PARAMETERS #####################################
+
+# what are the parameters in this model? 
+# how could we vary them? 
+# which parameters would you add? 
+# is this a realistic model? what does it capture? what is left out?
