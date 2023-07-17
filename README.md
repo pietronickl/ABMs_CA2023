@@ -1,6 +1,10 @@
 # Intro to ABMs
 Agent Based Models (ABMs) provide a bottom-up approach to simulate the population-level consequences of individual behaviour. ABMs often reveal unexpected or even counterintuitive emergent phenomena. Using ABMs, you can formulate “what-if” scenarios by playing with the model architecture and its parameters – essentially carrying out numeric thought experiments. 
 
+### example of an influential ABM:
+http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/
+(to play around with this model, scroll to the bottom) 
+
 Here you will find Jupyter notebooks for different ABMs. Choose one of these to get started:
 - when knowledge grows and when it gets lost (a simple model of cultural transmission)
 - fashion trends, baby names and good gossip (a simple model of cultural transmission)
