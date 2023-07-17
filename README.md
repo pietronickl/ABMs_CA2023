@@ -6,6 +6,9 @@ Here you will find Jupyter notebooks for different ABMs. Choose one of these to 
 - fashion trends, baby names and good gossip (a simple model of cultural transmission)
 - how diseases, news and trends spread (a simple contagion model)
 
+Feel free to ask ChatGPT for help:
+https://chat.openai.com/share/7bd39309-b449-41ea-acb8-34dbe288cb2b 
+
 You can choose at which level to engage with these. You can:
 - formulate pseudocode based on the description. 
     - Who are your agents? What rules do they follow? Specify your model and which graphs you’d get out of it
