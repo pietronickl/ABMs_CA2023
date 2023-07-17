@@ -6,6 +6,8 @@
 # have a look at the unbiased_transmission_1 function
 # TODOs: can you explain what each line does? 
 
+library(tidyverse)
+
 unbiased_transmission_1 <- function(N, t_max) {
     # TODO
     population <- tibble(trait = sample(c("A", "B"), N, replace = TRUE))
