@@ -1,3 +1,6 @@
+You examine the archaeological record of a lost culture and you see, that at a certain 
+kind of tool was gradually replaced by another. How would you explain this pattern?
+
 In (cultural) evolution it’s easy to assume that a trait spreads because it is adaptive.
 After all, if it wasn’t, why would it catch on? Why would people preferentially copy it?
 Better tools replace worse tools. Easier languages replace harder ones. Right? 

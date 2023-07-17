@@ -3,9 +3,10 @@ good to understand how it works and think about how to model it. And influential
 (analytical) model is the SIR-model, here’s how it works:
 
 People can take one of three states, they can be Susceptible (S), Infected (I) or
-Recovered (R). If patient 0 catches the bug, they change from S to I. I then passes
-on the infection with a certain probability to their Susceptible neighbours, and
-move on to Recovered status.
+Recovered (R). If patient 0 catches the bug, they change from Susceptibble to Infected. 
+Infected individuals then pass on the infection with a certain probability to their 
+Susceptible neighbours, and move on to Recovered status.
 
 Think about spatially local spreading: You can only get the virus from someone who
-is in sneezing distance, and you are only influenced by people in your village.
+is in sneezing distance, and you are only influenced in your fashion choices by people in 
+your village.
